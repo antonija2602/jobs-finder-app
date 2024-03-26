@@ -26,7 +26,7 @@ export default function Hero() {
                     <button className=" flex items-center justify-center bg-purple-900 rounded-full text-slate-100 w-12 h-12  absolute left-2  ">
                         <HiSearch className="text-2xl" />
                     </button>
-                    <button className="flex items-center bg-slate-200 absolute right-1 rounded-full lg:px-4 px-2 h-[90%] xl:text-xl text-sm font-normal gap-x-2 ">
+                    <button className="flex items-center bg-slate-100 border absolute right-1 rounded-full lg:px-4 px-2 h-[90%] xl:text-xl text-sm font-normal gap-x-2 ">
                         <IoLocationOutline className="text-slate-900 lg:text-2xl" />{" "}
                         Any location
                     </button>
