@@ -87,7 +87,7 @@ export default function Recommended() {
                             <p className="text-xl ">{job}</p>
                         </span>
                     </div>
-                    <button className="rounded-full bg-slate-50 border border-slate-300  text-lg text-slate-900 font-bold px-8 py-3 outline-none  hover:bg-slate-200 duration-300">
+                    <button className="rounded-full bg-slate-50 border border-slate-300  text-lg text-slate-900 font-bold px-8 py-3   hover:bg-slate-200 duration-300">
                         Apply Now
                     </button>
                 </div>
