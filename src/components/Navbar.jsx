@@ -47,7 +47,7 @@ export default function Navbar() {
                         </a>
                     </ul>
                     <div className="flex max-lg:hidden gap-x-4">
-                        <button className="rounded-full bg-transparent border text-lg text-slate-900  font-bold px-8 py-3 hover:bg-slate-200 hover:border-slate-300 duration-300">
+                        <button className="rounded-full bg-slate-50 border border-slate-200  text-lg text-slate-900 font-bold px-8 py-3   hover:bg-slate-200 duration-200">
                             Sign Up
                         </button>
                         <button className="rounded-full bg-purple-900 text-lg text-slate-100  font-bold px-8 py-3  hover:opacity-90 duration-200 ">
@@ -96,7 +96,7 @@ export default function Navbar() {
                                 </a>
                             </ul>
                             <div className="flex flex-col justify-center items-center w-full gap-y-8 mt-4">
-                                <button className="rounded-full bg-slate-100 text-lg text-slate-900  font-bold px-8 py-3 hover:opacity-90 duration-200">
+                                <button className="rounded-full bg-slate-200 text-lg text-slate-900  font-bold px-8 py-3 hover:opacity-90 duration-200">
                                     Sign Up
                                 </button>
                                 <button className="rounded-full bg-purple-900 text-lg text-slate-100  font-bold px-8 py-3 hover:opacity-90 duration-200">

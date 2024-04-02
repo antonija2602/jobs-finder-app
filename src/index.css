@@ -7,3 +7,25 @@
 * {
     font-family: "Inter", sans-serif;
 }
+
+.gd-carousel {
+    position: unset;
+}
+
+.react-multiple-carousel__arrow {
+    position: absolute;
+    border: #94a3b8 solid 1px;
+    background-color: #94a3b8;
+}
+
+.react-multiple-carousel__arrow:hover {
+    opacity: 0.8;
+}
+
+.react-multiple-carousel__arrow--left {
+    left: calc(-3% + 1px);
+}
+
+.react-multiple-carousel__arrow--right {
+    right: calc(-3% + 1px);
+}
