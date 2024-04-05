@@ -16,6 +16,7 @@
     position: absolute;
     border: #94a3b8 solid 1px;
     background-color: #94a3b8;
+    transition-duration: 0.2s;
 }
 
 .react-multiple-carousel__arrow:hover {

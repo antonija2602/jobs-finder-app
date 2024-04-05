@@ -5,6 +5,7 @@ import Recommended from "../components/Recommended"
 import TopCompany from "../components/TopCompany"
 import FeaturedJobs from "../components/FeaturedJobs"
 import Testimonials from "../components/Testimonials"
+import Footer from "../components/Footer"
 
 export default function Home() {
     return (
@@ -15,6 +16,7 @@ export default function Home() {
             <TopCompany />
             <FeaturedJobs />
             <Testimonials />
+            <Footer />
         </div>
     )
 }
