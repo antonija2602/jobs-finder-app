@@ -3,7 +3,7 @@
 
 The site allows users to search for job openings based on their preferred location and industry.
 
-~~🔗 Click here to See the Preview~~
+Live link => https://dream-job-app.netlify.app/
 
 ## Getting Started 
 To get started with "Job Finder," follow these steps:
